@@ -1,0 +1,9 @@
+pandas
+numpy
+pytrends
+fastparquet
+paramiko
+postmarker
+python-dotenv
+python-dateutil
+urllib3
